@@ -5,6 +5,15 @@ Technologies Used:-
 1) Pytorch
 2) AWS Sagemaker
 
+General outline for developing this project is
+1) Download or otherwise retrieve the data.
+2) Process / Prepare the data.
+3) Upload the processed data to S3.
+4) Train a chosen model.
+5) Test the trained model (typically using a batch transform job).
+6) Deploy the trained model.
+7) Use the deployed model.
+
  The Web Application Interface Looks like:-
  ![](output/sentiment.PNG)
  
