@@ -14,6 +14,8 @@ General outline for developing this project is
 6) Deploy the trained model.
 7) Use the deployed model.
 
+The Dataset used for this project is taken from IMDB. Dataset can be downloaded from http://ai.stanford.edu/~amaas/data/sentiment/
+
  The Web Application Interface Looks like:-
  ![](output/sentiment.PNG)
  
